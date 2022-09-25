@@ -1,0 +1,6 @@
+# Assignment 3 submission by Nitish Jha
+
+str=input("Enter the String :")
+stringlength=len(str)
+slicedString=str[stringlength::-1] 
+print (slicedString) 
